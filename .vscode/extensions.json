@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "christian-kohler.npm-intellisense",
+        "leizongmin.node-module-intellisense",
+        "jasonnutter.search-node-modules",
+        "chris-noring.node-snippets"
+    ]
+}

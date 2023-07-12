@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+      "module": "CommonJS",
+      "strict": true,
+      "outDir": "./out",
+      "allowJs": true,
+      "removeComments": true,
+      "strictBindCallApply": true,
+      "noUnusedLocals": true,
+      "noUnusedParameters": true,
+      "noImplicitReturns": true,
+      "noFallthroughCasesInSwitch": true,
+      "noUncheckedIndexedAccess": true,
+      "composite": true,
+      "esModuleInterop":true,
+      "rootDir": "./src"
+    },
+    "includes": [
+        "src/**/*"
+    ]
+  }
